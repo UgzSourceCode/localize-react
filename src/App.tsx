@@ -2,6 +2,9 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import "./i18n";
+import { useTranslation } from 'react-i18next';
+
 const App = () => {
   return (
     <div className="App">
