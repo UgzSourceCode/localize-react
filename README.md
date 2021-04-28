@@ -1,5 +1,16 @@
 # localize-react
 App with localization support based on i18next
+# Libraries
+## i18next
+https://github.com/i18next/react-i18next
+https://www.i18next.com
+## react-i18next
+https://github.com/i18next/react-i18next-gitbook
+https://react.i18next.com
+## i18next-http-backend
+https://github.com/i18next/i18next-http-backend
+## i18next-browser-languageDetector
+https://github.com/i18next/i18next-browser-languageDetector
 # Summary
 In this place I will add summary with my opinion about this i18next.
 # Getting Started with Create React App
